@@ -1,0 +1,6 @@
+@AzureDevOpsPractice_HostAddress = http://localhost:5132
+
+GET {{AzureDevOpsPractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
